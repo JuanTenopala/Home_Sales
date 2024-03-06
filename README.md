@@ -4,15 +4,15 @@
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
-Import the necessary PySpark SQL functions for this assignment.
+2. Import the necessary PySpark SQL functions for this assignment.
 
-Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
+3. Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
-Create a temporary table called home_sales.
+4. Create a temporary table called home_sales.
 
-Answer the following questions using SparkSQL:
+5. Answer the following questions using SparkSQL:
 
-What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+- What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
