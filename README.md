@@ -11,7 +11,6 @@
 4. Create a temporary table called home_sales.
 
 5. Answer the following questions using SparkSQL:
-
   - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
